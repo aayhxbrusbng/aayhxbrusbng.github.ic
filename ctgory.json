@@ -9,12 +9,20 @@
       "c_name":"animals"
     },
     {
-      "c_image":"https://i.pinimg.com/564x/c9/ab/e9/c9abe98bab6f16790bd0815e15eaebd8.jpg",
-      "c_name":"dinosaurs"
+      "c_image":"https://i.pinimg.com/564x/e8/d6/79/e8d6792e73d1e1f297dd50127299bc88.jpg",
+      "c_name":"flowers"
     },
     {
       "c_image":"https://i.pinimg.com/564x/7b/9f/9c/7b9f9c73a2a768756b4cf13be6869795.jpg",
       "c_name":"fruits"
+    },
+    {
+      "c_image":"https://i.pinimg.com/564x/36/ed/db/36eddb404482937d91deed29afe9b51c.jpg",
+      "c_name":"dinosaurs"
+    }
+    {
+      "c_image":"https://i.pinimg.com/564x/83/cc/63/83cc63dd209ec91d3096af8f1223cfa9.jpg",
+      "c_name":"butterfly"
     }
   ]
 }
