@@ -9,6 +9,10 @@
       "c_name":"planet"
     },
     {
+      "c_image":"https://i.pinimg.com/564x/2d/25/67/2d2567457cb3c5694d9595fd1f137b6c.jpg",
+      "c_name":"animals"
+    },
+    {
       "c_image":"https://i.pinimg.com/564x/95/c3/28/95c3280ca9ec5cb2fd63ed4aac13dbd9.jpg",
       "c_name":"nature"
     },
@@ -39,10 +43,6 @@
     {
       "c_image":"https://i.pinimg.com/564x/bf/8d/8e/bf8d8ee15b976ab163830c527c242b8d.jpg",
       "c_name":"fish"
-    },
-    {
-      "c_image":"https://i.pinimg.com/564x/c9/ab/e9/c9abe98bab6f16790bd0815e15eaebd8.jpg",
-      "c_name":"animals"
     },
     {
       "c_image":"https://iheartcraftythings.com/wp-content/uploads/2022/04/5-2.jpg",
