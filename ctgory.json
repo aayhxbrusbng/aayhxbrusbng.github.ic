@@ -4,7 +4,10 @@
       "c_image":"https://coloringonly.com/images/imgcolor/sun-and-planets-coloring-page.png",
       "c_name":"planet"
     },
-
+    {
+      "c_image":"https://i.pinimg.com/564x/0d/db/5f/0ddb5fdf91edccb6d01092d290ba3dca.jpg",
+      "c_name":"doraemon"
+    },
     {
       "c_image":"https://i.pinimg.com/564x/2d/25/67/2d2567457cb3c5694d9595fd1f137b6c.jpg",
       "c_name":"animals"
@@ -13,7 +16,10 @@
       "c_image":"https://i.pinimg.com/564x/95/c3/28/95c3280ca9ec5cb2fd63ed4aac13dbd9.jpg",
       "c_name":"nature"
     },
-
+    {
+      "c_image":"https://i.pinimg.com/564x/4a/9b/69/4a9b69aa48af2dc9b7724eeb9259ad9a.jpg",
+      "c_name":"pokemon"
+    },
     {
       "c_image":"https://i.pinimg.com/564x/e6/31/e5/e631e53bcd2b83c02288315d4767b1d2.jpg",
       "c_name":"robot"
